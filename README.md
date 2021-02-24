@@ -104,7 +104,7 @@ We can simple write the text seperated by spaces use accordingly </br>
 
 To add image use symbol ![Image name](path of the image)
 
-![Image]('./sample.jpg')
+![Image](./sample.jpg)
 
 ## Links
 
